@@ -1,5 +1,12 @@
 # soccer_bot_without_microcontroller
 
+
+<p align="center">
+
+  <img src="2.jpg" width="40%">
+
+</p>
+
 ## 🧠 Overview
 This project is a **dual-motor RC car** powered by two **BTS7960 motor drivers**, a **buck converter**, and **ESC modules** for smooth control.  
 It’s designed for stable performance, modular wiring, and compatibility with Arduino or other 5V controllers.
@@ -7,7 +14,6 @@ It’s designed for stable performance, modular wiring, and compatibility with A
 
 <p align="center">
   <img src="1.jpg" width="40%">
-  <img src="2.jpg" width="40%">
   <img src="3.jpg" width="40%">
   <img src="4.jpg" width="40%">
 </p>
